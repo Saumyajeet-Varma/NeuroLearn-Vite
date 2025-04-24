@@ -1,11 +1,11 @@
 import Layout from "../../components/Layout/Layout"
 
-function Login() {
+const Register = () => {
     return (
         <Layout>
-            Login
+            Register
         </Layout>
     )
 }
 
-export default Login
+export default Register
